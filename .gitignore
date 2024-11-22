@@ -1,0 +1,7 @@
+.env
+learning_log
+venv/
+venv
+.venv
+poetry.lock
+
