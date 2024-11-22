@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Eureka Labs Multi-Agent System
+
+# Labs Multi-Agent System
 
 ## Overview
 
