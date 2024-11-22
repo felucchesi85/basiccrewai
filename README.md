@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eureka Labs Multi-Agent System
 
 ## Overview
@@ -101,3 +102,6 @@ This project implements a multi-agent system designed to perform tasks such as w
 ## Conclusion
 
 This documentation provides a comprehensive guide for setting up and running the multi-agent system. By following the steps outlined, developers can easily understand and contribute to the project.
+=======
+# basiccrewai
+>>>>>>> a87a86b7f251f7486733078e3d8626362c587866
